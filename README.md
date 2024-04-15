@@ -26,7 +26,7 @@ Follow these steps to get the project set up on your local machine:
 2. Navigate to the project directory:
 
     ```
-    cd tax-calculator
+    cd calci
     ```
 
 ### Running the Application
