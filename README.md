@@ -46,3 +46,4 @@ To run the application, follow these steps:
 - HTML
 - CSS (Bootstrap)
 - JavaScript
+![test passing](https://github.com/Dhatripathak/calci/blob/main/Screenshot%202024-04-15%20093954.png)
